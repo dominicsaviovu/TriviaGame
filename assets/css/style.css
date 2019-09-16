@@ -13,7 +13,7 @@ body {
   height: 100%;
   box-sizing: border-box;
   margin: 2.5% auto;
-  background-color:tan;
+  background-color: cornsilk;
 }
 
 #sub-wrapper {
@@ -42,13 +42,13 @@ h1 {
   font-family: 'KoHo', sans-serif;
   font-size: 75px;
   font-weight: bold;
-  color: darkblue;
+  color: cadetblue;
 }
 
 h2 {
   margin-bottom: 25px;
   font-size: 35px;
-  color: white;
+  color: dimgray;
 }
 
 h3 {
